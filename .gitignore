@@ -17,5 +17,4 @@ vendor/
 .bundle/
 
 # Ignore MacOS auto-generated logs
-.DS_Store/
-*/.DS_Store/
+**/.DS_Store
