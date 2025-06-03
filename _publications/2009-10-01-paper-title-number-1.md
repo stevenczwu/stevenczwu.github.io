@@ -3,9 +3,9 @@ title: "SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Bet
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Point cloud sampling'
+excerpt: ''
 date: 2025-06-11
-venue: 'CVPR'
+venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://arxiv.org/pdf/2504.19581'
 videourl: 'https://www.youtube.com/watch?v=FZtNayVyaRE'
 ---
