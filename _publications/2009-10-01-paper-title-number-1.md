@@ -1,5 +1,6 @@
 ---
 title: "SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity"
+author: "<strong>C. Wu</strong>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
