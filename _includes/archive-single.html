@@ -83,7 +83,7 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.paperurl and post.videourl %}
-      <p style="font-size: smaller"><a href="{{ page.paperurl }}">📄 Paper</a> | <a href="{{ page.videourl }}">🎥 Video</a></p>
+      <p style="font-size: smaller"><a href="{{ post.paperurl }}">📄 Paper</a> | <a href="{{ post.videourl }}">🎥 Video</a></p>
     {% endif %}
 
   </article>
