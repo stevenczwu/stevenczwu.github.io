@@ -20,7 +20,7 @@ If you are interested in this work, please cite as below:
 @inproceedings{wu2025rethinking,
   title={Rethinking Attention Module Design for Point Cloud Analysis},
   author={Wu, Chengzhi and Wang, Kaige and Zhong, Zeyun and Fu, Hao and Zheng, Junwei and Zhang, Jiaming and Pfrommer, Julius and Beyerer, J{\"u}rgen},
-  booktitle={International Conference on Pattern Recognition},
+  booktitle={International Conference on Pattern Recognition (ICPR)},
   pages={249--267},
   year={2025},
   organization={Springer}
