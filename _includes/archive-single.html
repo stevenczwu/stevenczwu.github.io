@@ -81,6 +81,18 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
 
+    {% elsif post.paperurl and post.githuburl and post.homepageurl and post.videourl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.githuburl }}">💻 Code</a> | <a href="{{ post.homepageurl }}">🏡 Homepage</a> | <a href="{{ post.videourl }}">🎥 Video</a></p>
+    {% elsif post.paperurl and post.githuburl and post.homepageurl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.githuburl }}">💻 Code</a> | <a href="{{ post.homepageurl }}">🏡 Homepage</a></p>
+    {% elsif post.paperurl and post.githuburl and post.videourl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.githuburl }}">💻 Code</a> | <a href="{{ post.videourl }}">🎥 Video</a></p>
+    {% elsif post.paperurl and post.homepageurl and post.videourl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.homepageurl }}">🏡 Homepage</a> | <a href="{{ post.videourl }}">🎥 Video</a></p>
+    {% elsif post.paperurl and post.githuburl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.githuburl }}">💻 Code</a></p>
+    {% elsif post.paperurl and post.homepageurl %}
+      <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.homepageurl }}">🏡 Homepage</a></p>
     {% elsif post.paperurl and post.videourl %}
       <p><a href=" {{ post.paperurl }} ">📄 Paper</a> | <a href="{{ post.videourl }}">🎥 Video</a></p>
     {% elsif post.paperurl %}
