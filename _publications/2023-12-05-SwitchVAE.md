@@ -2,7 +2,7 @@
 title: "Self-Supervised Generative-Contrastive Learning of Multi-Modal Euclidean Input for 3D Shape Latent Representations: A Dynamic Switching Approach"
 author: "<strong>C. Wu</strong>, J. Pfrommer, M. Zhou, J. Beyerer"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2023-12-05-SwitchVAE
 excerpt: ''
 date: 2023-12-05
