@@ -9,7 +9,7 @@ excerpt: ''
 date: 2023-01-03
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 paperurl: 'https://arxiv.org/abs/2301.05033'
-githuburl: 'https://github.com/bixuelei/Sim2real_pc'
+githuburl: 'https://github.com/stevenczwu/AgiProbot_Motor_Segmentation_WACV2023'
 homepageurl: 'https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=home'
 videourl: 'https://www.youtube.com/watch?v=CBoUtY4DTrc'
 ---
