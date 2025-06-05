@@ -45,3 +45,60 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </ul>
   </div>
 </section>
+
+<p style="margin-bottom: 10px;"> 
+  <font size="+2">📖 <b>Selected Publications</b></font> <br /> 
+  <font size="-1">(* Equal contribution, <sup>†</sup> Corresponding author.)</font>
+</p>
+
+<div class="publication-container"> 
+  <img src="images/teaser_SPR.png" />
+  <div> 
+    <font size="+1.5"><b>Scene-agnostic Pose Regression for Visual Localization</b></font> <br /> 
+    <font size="-1"><u><b>J. Zheng</b></u>, R. Liu, Y. Chen, Z. Chen, K. Yang, J. Zhang<sup>†</sup>, R. Stiefelhagen</font> <br /> 
+    <font size="-1"><b>CVPR'25</b> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="publications/SPR/SPR.html" target="_blank">Homepage</a>
+      </span> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="https://arxiv.org/pdf/2503.19543" target="_blank">Paper</a>
+      </span> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="https://github.com/JunweiZheng93/SPR" target="_blank">Code</a>
+      </span> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="publications/SPR/SPR.html" target="_blank">Dataset</a>
+      </span> 
+    </font>
+  </div>
+</div>
+
+<div class="publication-container"> 
+  <img src="images/teaser_Samble.png" />
+  <div> 
+    <font size="+1.5"><b>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</b></font> <br /> 
+    <font size="-1">C. Wu, Y. Wan*, H. Fu*, J. Pfrommer, Z. Zhong, <u><b>J. Zheng</b></u><sup>†</sup>, J. Zhang, J. Beyerer</font> <br /> 
+    <font size="-1"><b>CVPR'25</b> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="publications/Samble/Samble.html" target="_blank">Homepage</a>
+      </span> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="https://arxiv.org/pdf/2504.19581" target="_blank">Paper</a>
+      </span> 
+    </font>
+  </div>
+</div>
+
+<div class="publication-container"> 
+  <img src="images/teaser_ATBench.png" />
+  <div> 
+    <font size="+1.5"><b>@BENCH: Benchmarking Vision-Language Models for Human-centered Assistive Technology</b></font> <br /> 
+    <font size="-1">X. Jiang*, <u><b>J. Zheng</b></u>*, R. Liu, J. Li, S. Matthiesen, J. Zhang<sup>†</sup>, R. Stiefelhagen</font> <br /> 
+    <font size="-1"><b>WACV'25</b> 
+      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
+        <a href="publications/ATBench/ATBench.html" target="_blank">Homepage</a>
+      </span> 
+    </font>
+  </div>
+</div>
+
