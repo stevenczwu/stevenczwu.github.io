@@ -19,7 +19,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
   <div style="
       max-height: 200px;
       overflow-y: auto;
-      border: none; /* 1px solid #ddd;*/
+      border: none; <!-- 1px solid #ddd; -->
       border-radius: 12px;
       padding: 1em;
       background-color: #fdfdfd;
@@ -48,11 +48,11 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 
 
-<p style="margin-bottom: 10px; margin-top: 100px"> 
+<p style="margin-bottom: 10px; margin-top: 50px"> 
   <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
 </p>
 
-/*
+<!--
 <div class="publication-container"> 
   <img src="../images/teasers/teaser_SAMBLE.png" />
   <div> 
@@ -68,8 +68,8 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </font>
   </div>
 </div>
-*/
-
+-->
+<!--
 <div style="display: flex; align-items: flex-start; gap: 16px;">
   <!-- 图片 -->
   <img src="../images/teasers/teaser_SAMBLE.png" alt="teaser_SAMBLE" style="width: 120px; height: auto; border-radius: 8px;">
@@ -82,5 +82,28 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     <li><b>Gao</b>, T., Li, Y., Dai, Y., Zhang, T., & Zhu, J. (2021). Nonlinear metasurface for holography in visible wavelengths. <i>Science</i>, 373(6551), 1432–1436.</li>
   </ul>
 </div>
+-->
+
+<div style="display: flex; align-items: flex-start; width: 100%;">
+
+  <!-- 左侧图片，占据一半宽度 -->
+  <div style="flex: 1; padding-right: 16px;">
+    <img src="../images/teasers/teaser_SAMBLE.png"
+         alt="teaser_SAMBLE"
+         style="width: 100%; border: 2px solid black; border-radius: 12px;">
+  </div>
+
+  <!-- 右侧文字，占据另一半 -->
+  <div style="flex: 1;">
+    <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+      <li><b>Gao</b>, T., Dai, Y., Li, X., Tang, C., & Zhu, J. (2023). A self-adaptive metasurface for ultra-wideband and large-range wavefront modulation. <i>Nature Communications</i>, 14(1), 1–9.</li>
+      <li><b>Gao</b>, T., Zhang, T., Dai, Y., Li, Y., & Zhu, J. (2023). Programmable photonic interconnects based on hybrid metasurfaces. <i>Nature Nanotechnology</i>, 18(3), 356–363.</li>
+      <li>Dai, Y., <b>Gao</b>, T., Li, Y., Zhu, J. (2022). Dual-functional ultra-compact metasurfaces for visible light beam shaping. <i>Nature Photonics</i>, 16, 789–796.</li>
+      <li><b>Gao</b>, T., Li, Y., Dai, Y., Zhang, T., & Zhu, J. (2021). Nonlinear metasurface for holography in visible wavelengths. <i>Science</i>, 373(6551), 1432–1436.</li>
+    </ul>
+  </div>
+
+</div>
+
 
 
