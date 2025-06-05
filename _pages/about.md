@@ -117,6 +117,3 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       </div>
     </div>
 </section>
-
-
-
