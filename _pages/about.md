@@ -15,7 +15,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 
 <section id="news">
-  <h2 style="font-size: 1.8em; margin-bottom: 0.5em;">🔥 News</h2>
+  <h2 style="font-size: 1.0em; margin-bottom: 0.5em;">🔥 News</h2>
   <div style="
       max-height: 200px;
       overflow-y: auto;
@@ -25,11 +25,11 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       background-color: #fdfdfd;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   ">
-    <ul style="list-style: none; padding-left: 0; font-size: 0.95em; line-height: 1.6;">
-      <li><b>[Feb 2025]</b>: A paper <a href=https://stevenczwu.github.io/publication/2025-06-11-SAMBLE>SAMBLE</a> has been accepted by CVPR 2025.</li>
-      <li><b>[Jul 2024]</b>: A paper <a href=https://stevenczwu.github.io/publication/2024-10-04-OPS>OPS</a> has been accepted by ECCV 2024.</li>
-      <li><b>[Mar 2023]</b>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been selected as Highlight by CVPR 2023.</li>
-      <li><b>[Feb 2023]</b>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been accepted by CVPR 2023.</li>
+    <ul style="list-style: none; padding-left: 0; font-size: 0.55em; line-height: 1.6;">
+      <li><strong>[Feb 2025]</strong>: A paper <a href=https://stevenczwu.github.io/publication/2025-06-11-SAMBLE>SAMBLE</a> has been accepted by CVPR 2025.</li>
+      <li><strong>[Jul 2024]</strong>: A paper <a href=https://stevenczwu.github.io/publication/2024-10-04-OPS>OPS</a> has been accepted by ECCV 2024.</li>
+      <li><strong>[Mar 2023]</strong>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been selected as Highlight by CVPR 2023.</li>
+      <li><strong>[Feb 2023]</strong>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been accepted by CVPR 2023.</li>
     </ul>
   </div>
 </section>
