@@ -15,11 +15,11 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 ## 🔥 News
 
-<small>
-
-**[Feb 2025]**: A paper [SAMBLE](https://stevenczwu.github.io/publication/2025-06-11-SAMBLE) has been accepted by CVPR 2025.
-**[Jul 2024]**: A paper [OPS](https://stevenczwu.github.io/publication/2024-10-04-OPS) has been accepted by ECCV 2024.
-**[Mar 2023]**: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been selected as Highlight by CVPR 2023.  
-**[Feb 2023]**: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been accepted by CVPR 2023.  
-
-</small>
+<div style="font-size: 90%">
+<ul>
+  <li><b>[Feb 2025]</b>: A paper [SAMBLE](https://stevenczwu.github.io/publication/2025-06-11-SAMBLE) has been accepted by CVPR 2025.</li>
+  <li><b>[Jul 2024]</b>: A paper [OPS](https://stevenczwu.github.io/publication/2024-10-04-OPS) has been accepted by ECCV 2024.</li>
+  <li><b>[Mar 2023]</b>: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been selected as Highlight by CVPR 2023.</li>
+  <li><b>[Feb 2023]</b>: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been accepted by CVPR 2023.</li>
+</ul>
+</div>
