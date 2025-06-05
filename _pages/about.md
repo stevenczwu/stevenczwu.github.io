@@ -19,7 +19,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
   <div style="
       max-height: 200px;
       overflow-y: auto;
-      border: none; <!-- 1px solid #ddd; -->
+      border: 1px solid #ddd; 
       border-radius: 12px;
       padding: 1em;
       background-color: #fdfdfd;
@@ -70,20 +70,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 </div>
 -->
 
-<!--
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <!-- 图片 -->
-  <img src="../images/teasers/teaser_SAMBLE.png" alt="teaser_SAMBLE" style="width: 120px; height: auto; border-radius: 8px;">
 
-  <!-- 文字 -->
-  <ul style="margin: 0; padding: 0; list-style-type: disc; font-size: 14px;">
-    <li><b>Gao</b>, T., Dai, Y., Li, X., Tang, C., & Zhu, J. (2023). A self-adaptive metasurface for ultra-wideband and large-range wavefront modulation. <i>Nature Communications</i>, 14(1), 1–9.</li>
-    <li><b>Gao</b>, T., Zhang, T., Dai, Y., Li, Y., & Zhu, J. (2023). Programmable photonic interconnects based on hybrid metasurfaces. <i>Nature Nanotechnology</i>, 18(3), 356–363.</li>
-    <li>Dai, Y., <b>Gao</b>, T., Li, Y., Zhu, J. (2022). Dual-functional ultra-compact metasurfaces for visible light beam shaping. <i>Nature Photonics</i>, 16, 789–796.</li>
-    <li><b>Gao</b>, T., Li, Y., Dai, Y., Zhang, T., & Zhu, J. (2021). Nonlinear metasurface for holography in visible wavelengths. <i>Science</i>, 373(6551), 1432–1436.</li>
-  </ul>
-</div>
--->
 
 <div style="display: flex; align-items: flex-start; width: 100%;">
 
@@ -97,7 +84,8 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
       <li>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</li>
       <li><b>C. Wu</b>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer</li>
-      <li>CVPR 2025 | <a href="https://arxiv.org/pdf/2504.19581">📄 Paper</a> | <a href="https://github.com/stevenczwu/SAMBLE">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/Samble/Samble.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=FZtNayVyaRE">🎥 Video</a></li>
+      <li>CVPR 2025</li>
+      <li><a href="https://arxiv.org/pdf/2504.19581">📄 Paper</a> | <a href="https://github.com/stevenczwu/SAMBLE">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/Samble/Samble.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=FZtNayVyaRE">🎥 Video</a></li>
     </ul>
   </div>
 
