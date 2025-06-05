@@ -13,6 +13,8 @@ homepageurl: 'https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?si
 videourl: 'https://www.youtube.com/watch?v=Z5Ui6u5DJDs'
 ---
 
+<img src="../images/teasers/teaser_AgiBenchmark.png" alt="teaser_APES" style="display: block; margin: auto;">
+
 Abstract: In this paper, we develop a novel benchmark suite including both a 2D synthetic image dataset and a 3D synthetic point cloud dataset. Our work is a sub-task in the framework of a remanufacturing project, in which small electric motors are used as fundamental objects. Apart from the given detection, classification, and segmentation annotations, the key objects also have multiple learnable attributes with ground truth provided. This benchmark can be used for computer vision tasks including 2D/3D detection, classification, segmentation, and multi-attribute learning. It is worth mentioning that most attributes of the motors are quantified as continuously variable rather than binary, which makes our benchmark well-suited for the less explored regression tasks. In addition, appropriate evaluation metrics are adopted or developed for each task and promising baseline results are provided. We hope this benchmark can stimulate more research efforts on the sub-domain of object attribute learning and multi-task learning in the future.
 
 

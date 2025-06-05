@@ -14,6 +14,8 @@ homepageurl: 'https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?si
 videourl: 'https://www.youtube.com/watch?v=CBoUtY4DTrc'
 ---
 
+<img src="../images/teasers/teaser_AgiPointSeg.png" alt="teaser_APES" style="display: block; margin: auto;">
+
 Abstract: On robotics computer vision tasks, generating and annotating large amounts of data from real-world for the use of deep learning-based approaches is often difficult or even impossible. A common strategy for solving this problem is to apply simulation-to-reality (sim2real) approaches with the help of simulated scenes. While the majority of current robotics vision sim2real work focuses on image data, we present an industrial application case that uses sim2real transfer learning for point cloud data. We provide insights on how to generate and process synthetic point cloud data in order to achieve better performance when the learned model is transferred to real-world data. The issue of imbalanced learning is investigated using multiple strategies. A novel patch-based attention network is proposed additionally to tackle this problem.
 
 

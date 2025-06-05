@@ -10,6 +10,8 @@ venue: 'IEEE Transactions on Multimedia (IEEE TMM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10345609'
 ---
 
+<img src="../images/teasers/teaser_SwitchVAE.png" alt="teaser_APES" style="display: block; margin: auto;">
+
 Abstract: We propose a combined generative and contrastive neural architecture for learning latent representations of 3D volumetric shapes. The architecture uses two encoder branches for voxel grids and multi-view images from the same underlying shape. The main idea is to combine a contrastive loss between the resulting latent representations with an additional reconstruction loss. That helps to avoid collapsing the latent representations as a trivial solution for minimizing the contrastive loss. A novel dynamic switching approach is used to cross-train two encoders with a shared decoder. The switching approach also enables the stop gradient operation on a random branch. Further classification experiments show that the latent representations learned with our self-supervised method integrate more useful information from the additional input data implicitly, thus leading to better reconstruction and classification performance.
 
 

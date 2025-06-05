@@ -12,6 +12,8 @@ githuburl: 'https://github.com/JunweiZheng93/VoxAttention'
 videourl: 'https://www.youtube.com/watch?v=EQFgK5DQTzQ'
 ---
 
+<img src="../images/teasers/teaser_VoxAttention.png" alt="teaser_APES" style="display: block; margin: auto;">
+
 Abstract: Modeling a 3D volumetric shape as an assembly of decomposed shape parts is much more challenging, but semantically more valuable than direct reconstruction from a full shape representation. The neural network needs to implicitly learn part relations coherently, which is typically performed by dedicated network layers that can generate transformation matrices for each part. In this paper, we propose a VoxAttention network architecture for attention-based part assembly. We further propose a variant of using channel-wise part attention and show the advantages of this approach. Experimental results show that our method outperforms most state-of-the-art methods for the part relation-aware 3D shape modeling task.
 
 
