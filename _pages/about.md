@@ -15,7 +15,9 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 
 <section id="news">
-  <h2 style="font-size: 1.5em; margin-bottom: 0.5em;">🔥 News</h2>
+  <p style="margin-bottom: 10px; margin-top: 50px"> 
+      <span style="font-size: 144%; ">🔥 <b>News</b></span> <br />
+  </p>
   <div style="
       max-height: 200px;
       overflow-y: auto;
@@ -53,7 +55,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </p>
     <div style="display: flex; align-items: flex-start; width: 100%;">
       <div style="
-        width: 300px; 
+        width: 250px; 
         height: 200px; 
         border: 2px solid black; 
         border-radius: 16px; 
