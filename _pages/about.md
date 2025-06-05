@@ -26,10 +26,22 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   ">
     <ul style="list-style: none; padding-left: 0; font-size: 0.85em; line-height: 1.6;">
-      <li><b>[Feb 2025]</b>: A paper <a href="https://stevenczwu.github.io/publication/2025-06-11-SAMBLE">SAMBLE</a> has been accepted by CVPR 2025.</li>
-      <li><b>[Jul 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-10-04-OPS">OPS</a> has been accepted by ECCV 2024.</li>
-      <li><b>[Mar 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-06-20-APES">APES</a> has been selected as Highlight by CVPR 2023.</li>
-      <li><b>[Feb 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-06-20-APES">APES</a> has been accepted by CVPR 2023.</li>
+      <li><b>[Feb 2025]</b>: A paper <a href="https://stevenczwu.github.io/publication/2025-06-11-SAMBLE">SAMBLE</a> has been accepted at CVPR 2025.</li>
+      <li><b>[Dec 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-12-01-RethinkPoAtt">Rethinking Attention Module Design for Point Cloud Analysis</a> has been accepted at ICPR 2024.</li>
+      <li><b>[Jul 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-10-04-OPS">OPS</a> has been accepted at ECCV 2024.</li>
+      <li><b>[Jul 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-10-01-HybridFormer">HybridFormer</a> has been accepted at ECCV Workshop 2024.</li>
+      <li><b>[Mar 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-06-19-BoltPosePK">6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration</a> has been accepted at CIRP LCE 2024.</li>
+      <li><b>[Dec 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-03-18-PoCCA">PoCCA</a> has been accepted at 3DV 2024.</li>
+      <li><b>[Nov 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-12-05-SwitchVAE">SwitchVAE</a> has been accepted by IEEE TMM.</li>
+      <li><b>[Mar 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-06-20-APES">APES</a> has been selected as Highlight at CVPR 2023.</li>
+      <li><b>[Feb 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-06-20-APES">APES</a> has been accepted at CVPR 2023.</li>
+      <li><b>[Feb 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-06-18-VoxAttention">VoxAttention</a> has been accepted at CVPR Workshop 2023.</li>
+      <li><b>[Jan 2023]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-02-19-AgiBenchmark">SynMotor: A Benchmark Suite</a> has been selected as the Best Paper Finalist at VISAPP 2023.</li>
+      <li><b>[Dec 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-02-19-AgiBenchmark">SynMotor: A Benchmark Suite</a> has been accepted at VISAPP 2023.</li>
+      <li><b>[Oct 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-01-03-AgiPointSeg">Sim2real Transfer Learning for Point Cloud Segmentation</a> has been accepted at WACV 2023.</li>
+      <li><b>[Jan 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2022-04-06-MotorBlenderAddon">MotorFactory: A Blender Add-on</a> has been accepted at CIRP CATS 2022.</li>
+      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding</a> has been selected as the Best Paper Finalist at IVPR 2020.</li>
+      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding</a> has been accepted at IVPR 2020.</li>
     </ul>
   </div>
 </section>
