@@ -15,17 +15,11 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 ## 🔥 News
 
-- **Feb 2025**: Two papers ([SPR](publications/SPR/SPR.html), [SAMBLE](publications/Samble/Samble.html)) accepted by CVPR 2025.  
-- **Jan 2025**: [GraphDoc](https://yufanchen96.github.io/projects/GraphDoc/) accepted by ICLR 2025.  
-- **Nov 2024**: [OneBev](https://arxiv.org/pdf/2409.13912) selected as Best Paper Finalist at ACCV 2024.  
-- **Oct 2024**: [@Bench](publications/ATBench/ATBench.html) accepted by WACV 2025.  
-- **Jul 2024**: [OPS](publications/OPS/OPS.html), [RAVAR](https://arxiv.org/pdf/2407.01872) accepted by ECCV 2024.  
-- **Jun 2024**: [NoiseEraSAR](https://arxiv.org/pdf/2403.09975) accepted by IROS 2024.  
-- **Apr 2024**: [MATERobot](publications/MATERobot/MATERobot.html) selected as Best Paper Finalist (Human-Robot Interaction) at ICRA 2024.  
-- **Feb 2024**: [RoDLA](https://yufanchen96.github.io/projects/RoDLA/) accepted by CVPR 2024.  
-- **Jan 2024**: [MATERobot](publications/MATERobot/MATERobot.html) accepted by ICRA 2024.  
-- **Dec 2023**: [OS-SAR](https://arxiv.org/pdf/2312.06330) accepted by AAAI 2024.  
-- **Mar 2023**: [APES](publications/APES/APES.html) selected as Highlight by CVPR 2023.  
-- **Feb 2023**: [APES](publications/APES/APES.html) accepted by CVPR 2023.  
+<small>
 
+**[Feb 2025]**: A paper [SAMBLE](https://stevenczwu.github.io/publication/2025-06-11-SAMBLE) has been accepted by CVPR 2025.
+**[Jul 2024]**: A paper [OPS](https://stevenczwu.github.io/publication/2024-10-04-OPS) has been accepted by ECCV 2024.
+**[Mar 2023]**: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been selected as Highlight by CVPR 2023.  
+**[Feb 2023]**: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been accepted by CVPR 2023.  
 
+</small>
