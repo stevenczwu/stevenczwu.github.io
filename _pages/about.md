@@ -47,49 +47,32 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 </section>
 
 
-
-<p style="margin-bottom: 10px; margin-top: 50px"> 
-  <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
-</p>
-
-<!--
-<div class="publication-container"> 
-  <img src="../images/teasers/teaser_SAMBLE.png" />
-  <div> 
-    <font size="+1.5"><b>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</b></font> <br /> 
-    <font size="-1">C. Wu, Y. Wan*, H. Fu*, J. Pfrommer, Z. Zhong, <u><b>J. Zheng</b></u><sup>†</sup>, J. Zhang, J. Beyerer</font> <br /> 
-    <font size="-1"><b>CVPR'25</b> 
-      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
-        <a href="publications/Samble/Samble.html" target="_blank">Homepage</a>
-      </span> 
-      <span style="border: 1px solid #b3d9ff; border-radius: 8px; padding: 2px 6px; display: inline-block;">
-        <a href="https://arxiv.org/pdf/2504.19581" target="_blank">Paper</a>
-      </span> 
-    </font>
-  </div>
-</div>
--->
-
-
-
-<div style="display: flex; align-items: flex-start; width: 100%;">
-
-  <div style="flex: 4; padding-right: 16px;">
-    <img src="../images/teasers/teaser_SAMBLE.png"
-         alt="teaser_SAMBLE"
-         style="width: 100%; border: 2px solid black; border-radius: 12px;">
-  </div>
-
-  <div style="flex: 6;">
-    <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
-      <li>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</li>
-      <li><b>C. Wu</b>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer</li>
-      <li>CVPR 2025</li>
-      <li><a href="https://arxiv.org/pdf/2504.19581">📄 Paper</a> | <a href="https://github.com/stevenczwu/SAMBLE">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/Samble/Samble.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=FZtNayVyaRE">🎥 Video</a></li>
-    </ul>
-  </div>
-
-</div>
+<section id="selected_publications">
+    <p style="margin-bottom: 10px; margin-top: 50px"> 
+      <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
+    </p>
+    <div style="display: flex; align-items: flex-start; width: 100%;">
+      <div style="
+        width: 300px; 
+        height: 200px; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_SAMBLE.png" alt="teaser_SAMBLE" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</li>
+          <li><b>C. Wu</b>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer</li>
+          <li>CVPR 2025</li>
+          <li><a href="https://arxiv.org/pdf/2504.19581">📄 Paper</a> | <a href="https://github.com/stevenczwu/SAMBLE">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/Samble/Samble.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=FZtNayVyaRE">🎥 Video</a></li>
+        </ul>
+      </div>
+    </div>
+</section>
 
 
 
