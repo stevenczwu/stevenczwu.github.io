@@ -53,10 +53,10 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     <p style="margin-bottom: 10px; margin-top: 50px;"> 
       <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
     </p>
-    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
         width: 250px; 
-        height: 180px; 
+        height: 160px; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -74,10 +74,10 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         </ul>
       </div>
     </div>
-    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
         width: 250px; 
-        height: 180px; 
+        height: 160px; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -95,10 +95,10 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         </ul>
       </div>
     </div>
-    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
         width: 250px; 
-        height: 180px; 
+        height: 160px; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
