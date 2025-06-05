@@ -50,13 +50,13 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 
 
 <section id="selected_publications">
-    <p style="margin-bottom: 10px; margin-top: 50px"> 
+    <p style="margin-bottom: 10px; margin-top: 50px;"> 
       <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
     </p>
-    <div style="display: flex; align-items: flex-start; width: 100%;">
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
       <div style="
         width: 250px; 
-        height: 200px; 
+        height: 180px; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -71,6 +71,48 @@ I am trying a new template, so this webpage is still under construction. Stay tu
           <li><b>C. Wu</b>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer</li>
           <li>CVPR 2025</li>
           <li><a href="https://arxiv.org/pdf/2504.19581">📄 Paper</a> | <a href="https://github.com/stevenczwu/SAMBLE">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/Samble/Samble.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=FZtNayVyaRE">🎥 Video</a></li>
+        </ul>
+      </div>
+    </div>
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
+      <div style="
+        width: 250px; 
+        height: 180px; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_OPS.png" alt="teaser_OPS" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>Open Panoramic Segmentation</li>
+          <li>J. Zheng, R. Liu, Y. Chen, K. Peng, <b>C. Wu</b>, K. Yang, J. Zhang, R. Stiefelhagen</li>
+          <li>ECCV 2024</li>
+          <li><a href="https://arxiv.org/abs/2407.02685">📄 Paper</a> | <a href="https://github.com/JunweiZheng93/OPS">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/OPS/OPS.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=0YZuecW7YhQ">🎥 Video</a></li>
+        </ul>
+      </div>
+    </div>
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 10px;">
+      <div style="
+        width: 250px; 
+        height: 180px; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_APES.png" alt="teaser_APES" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>Attention-based Point Cloud Edge Sampling</li>
+          <li><b>C. Wu</b>, J. Zheng, J. Pfrommer, and J. Beyerer</li>
+          <li>CVPR 2023</li>
+          <li><a href="https://arxiv.org/abs/2302.14673">📄 Paper</a> | <a href="https://github.com/JunweiZheng93/APES">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/APES/APES.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=LI33vU72BZo">🎥 Video</a></li>
         </ul>
       </div>
     </div>
