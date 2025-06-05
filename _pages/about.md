@@ -13,13 +13,23 @@ My primary research focus is 3D computer vision, encompassing various areas. In 
 
 I am trying a new template, so this webpage is still under construction. Stay tuned! :) 
 
-## 🔥 News
 
-<div style="font-size: 90%">
-<ul>
-  <li><b>[Feb 2025]</b>: A paper [SAMBLE](https://stevenczwu.github.io/publication/2025-06-11-SAMBLE) has been accepted by CVPR 2025.</li>
-  <li><b>[Jul 2024]</b>: A paper [OPS](https://stevenczwu.github.io/publication/2024-10-04-OPS) has been accepted by ECCV 2024.</li>
-  <li><b>[Mar 2023]</b>: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been selected as Highlight by CVPR 2023.</li>
-  <li><b>[Feb 2023]</b>: A paper [APES](https://stevenczwu.github.io/publication/2023-06-20-APES) has been accepted by CVPR 2023.</li>
-</ul>
-</div>
+<section id="news">
+  <h2 style="font-size: 1.8em; margin-bottom: 0.5em;">🔥 News</h2>
+  <div style="
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 1em;
+      background-color: #fdfdfd;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  ">
+    <ul style="list-style: none; padding-left: 0; font-size: 0.95em; line-height: 1.6;">
+      <li><b>[Feb 2025]</b>: A paper <a href=https://stevenczwu.github.io/publication/2025-06-11-SAMBLE>SAMBLE</a> has been accepted by CVPR 2025.</li>
+      <li><b>[Jul 2024]</b>: A paper <a href=https://stevenczwu.github.io/publication/2024-10-04-OPS>OPS</a> has been accepted by ECCV 2024.</li>
+      <li><b>[Mar 2023]</b>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been selected as Highlight by CVPR 2023.</li>
+      <li><b>[Feb 2023]</b>: A paper <a href=https://stevenczwu.github.io/publication/2023-06-20-APES>APES</a> has been accepted by CVPR 2023.</li>
+    </ul>
+  </div>
+</section>
