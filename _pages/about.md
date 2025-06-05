@@ -40,8 +40,8 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <li><b>[Dec 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-02-19-AgiBenchmark">SynMotor: A Benchmark Suite</a> has been accepted at VISAPP 2023.</li>
       <li><b>[Oct 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2023-01-03-AgiPointSeg">Sim2real Transfer Learning for Point Cloud Segmentation</a> has been accepted at WACV 2023.</li>
       <li><b>[Jan 2022]</b>: A paper <a href="https://stevenczwu.github.io/publication/2022-04-06-MotorBlenderAddon">MotorFactory: A Blender Add-on</a> has been accepted at CIRP CATS 2022.</li>
-      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding</a> has been selected as the Best Paper Finalist at IVPR 2020.</li>
-      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding</a> has been accepted at IVPR 2020.</li>
+      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Local Correlation-Aware Point Embedding</a> has been selected as the Best Paper Finalist at IVPR 2020.</li>
+      <li><b>[May 2020]</b>: A paper <a href="https://stevenczwu.github.io/publication/2020-08-26-PointEmbedding">Local Correlation-Aware Point Embedding</a> has been accepted at IVPR 2020.</li>
     </ul>
   </div>
 </section>
