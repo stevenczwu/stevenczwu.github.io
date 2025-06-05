@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Proseminar Anthropomatik"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Proseminar"
+permalink: "https://ies.iar.kit.edu/lehre_proseminar_anthropomatik.php"
+venue: "IES, KIT"
 date: 2014-01-01
 location: "City, Country"
 ---
