@@ -1,8 +1,8 @@
 ---
-title: "Automatic Visual Inspection and Image Processing"
+title: "AgiProbot"
 collection: projects
 type: "Lecture"
-permalink: /teaching/Lecture-ASB
+permalink: /projects/AgiProbot
 venue: "IES, KIT"
 date: 2019-04-03
 start_date: 2019-04-03
