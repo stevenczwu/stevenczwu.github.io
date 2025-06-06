@@ -24,7 +24,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       border: 1px solid #ddd; 
       border-radius: 12px;
       padding: 1em;
-      background-color: #fdfdfd;
+      background-color: white;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   ">
     <ul style="list-style: none; padding-left: 0; font-size: 0.85em; line-height: 1.6;">
@@ -57,7 +57,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
-        background-color: white; 
+        background-color: white !important; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
