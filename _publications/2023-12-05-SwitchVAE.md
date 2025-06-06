@@ -7,7 +7,8 @@ permalink: /publication/2023-12-05-SwitchVAE
 excerpt: ''
 date: 2023-12-05
 venue: 'IEEE Transactions on Multimedia (IEEE TMM)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10345609'
+paperurl: 'https://arxiv.org/pdf/2301.04612'
+githuburl: 'https://github.com/0xzhou/SwitchVAE'
 ---
 
 <img src="../images/teasers/teaser_SwitchVAE.png" alt="teaser_APES" style="display: block; margin: auto;">
