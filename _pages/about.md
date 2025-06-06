@@ -57,6 +57,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white; 
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 

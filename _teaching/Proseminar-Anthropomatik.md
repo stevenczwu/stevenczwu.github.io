@@ -9,6 +9,4 @@ end_date: 2023-04-01
 location: "Karlsruhe, Germany"
 ---
 
-This is a Proseminar offered for bachelor's students. The Proseminar is offered each semester, with me supervising one topic in every session.
-
-<a href="https://ies.iar.kit.edu/lehre_proseminar_anthropomatik.php">📖 Details</a>
+This is a [Proseminar](https://ies.iar.kit.edu/lehre_proseminar_anthropomatik.php) offered for bachelor's students. The Proseminar is offered each semester, with me supervising one topic in every session.
