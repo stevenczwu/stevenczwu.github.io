@@ -24,7 +24,6 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       border: 1px solid #ddd; 
       border-radius: 12px;
       padding: 1em;
-      background-color: white;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   ">
     <ul style="list-style: none; padding-left: 0; font-size: 0.85em; line-height: 1.6;">
