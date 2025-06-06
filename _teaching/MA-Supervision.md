@@ -10,7 +10,9 @@ end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
 
-During my doctoral studies, I supervised a total of 10 Master’s theses.
+I supervised 10 Master’s theses in total during my doctoral study.
 
-<li>Object Detection In 3D Point Clouds By Leveraging Local-Spatial Correlations, Kangning Li, 2019</li>
-<li>Improving Stylized View Synthesis of Image-based Reconstructions using Neural Networks, Iris Mehrbrodt, 2019</li>
+<ul style="list-style: none; padding-left: 0; font-size: 0.85em; line-height: 1.6;">
+    <li>Object Detection In 3D Point Clouds By Leveraging Local-Spatial Correlations, Kangning Li, 2019</li>
+    <li>Improving Stylized View Synthesis of Image-based Reconstructions using Neural Networks, Iris Mehrbrodt, 2019</li>
+</ul>
