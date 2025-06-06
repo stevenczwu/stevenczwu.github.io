@@ -4,12 +4,12 @@ collection: projects
 type: "Founded by Carl Zeiss Foundation"
 permalink: /projects/AgiProbot
 venue: "KIT"
+excerpt: '<b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications'
 date: 2019-04-01
 start_date: 2019-04-01
 end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
-
 
 
 <div style="margin-bottom: 10px;">
