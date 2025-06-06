@@ -14,7 +14,7 @@ videourl: 'https://www.youtube.com/watch?v=KSbqjk_0U0w'
 
 <img src="../images/teasers/teaser_PointEmbedding.png" alt="teaser_APES" style="display: block; margin: auto;">
 
-<span style="font-size: 0.85em; line-height: 0.9;">
+<span style="font-size: 0.85em;">
 <b>Abstract:</b> We present an improved approach for 3D object detection in point cloud data based on the Frustum PointNet (F-PointNet). Compared to the original F-PointNet, our newly proposed method considers the point neighborhood when computing point features. The newly introduced local neighborhood embedding operation mimics the convolutional operations in 2D neural networks. Thus features of each point are not only computed with the features of its own or of the whole point cloud but also computed especially with respect to the features of its neighbors. Experiments show that our proposed method achieves better performance than the F-Pointnet baseline on 3D object detection tasks.
 </span>
 
