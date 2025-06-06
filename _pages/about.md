@@ -126,14 +126,14 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         justify-content: center; 
         align-items: center;
         overflow: hidden;">
-        <img src="../images/teasers/teaser_AgiBenchmark.png" alt="teaser_AgiBenchmark" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="../images/teasers/teaser_AgiPointSeg.png" alt="teaser_AgiPointSeg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
       <div style="flex: 1;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
-          <li>SynMotor: A Benchmark Suite for Object Attribute Regression and Multi-task Learning</li>
-          <li><b>C. Wu</b>, L. Qiu, K. Zhou, J. Pfrommer, J. Beyerer</li>
-          <li>VISAPP 2023</li>
-          <li><a href="https://arxiv.org/abs/2301.05027">📄 Paper</a> | <a href="https://github.com/LinxiQIU/Motor_Datasets_Generation">💻 Code</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=datenset">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=Z5Ui6u5DJDs">🎥 Video</a></li>
+          <li>Sim2real Transfer Learning for Point Cloud Segmentation: An Industrial Application Case on Autonomous Disassembly</li>
+          <li><b>C. Wu</b>, X. Bi, J. Pfrommer, A. Cebulla, S. Mangold, J. Beyerer</li>
+          <li>WACV 2023</li>
+          <li><a href="https://arxiv.org/abs/2301.05033">📄 Paper</a> | <a href="https://github.com/stevenczwu/AgiProbot_Motor_Segmentation_WACV2023">💻 Code</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=home">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=CBoUtY4DTrc">🎥 Video</a></li>
         </ul>
       </div>
     </div>
@@ -147,14 +147,14 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         justify-content: center; 
         align-items: center;
         overflow: hidden;">
-        <img src="../images/teasers/teaser_AgiPointSeg.png" alt="teaser_AgiPointSeg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="../images/teasers/teaser_AgiBenchmark.png" alt="teaser_AgiBenchmark" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
       <div style="flex: 1;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
-          <li>Sim2real Transfer Learning for Point Cloud Segmentation: An Industrial Application Case on Autonomous Disassembly</li>
-          <li><b>C. Wu</b>, X. Bi, J. Pfrommer, A. Cebulla, S. Mangold, J. Beyerer</li>
-          <li>WACV 2023</li>
-          <li><a href="https://arxiv.org/abs/2301.05033">📄 Paper</a> | <a href="https://github.com/stevenczwu/AgiProbot_Motor_Segmentation_WACV2023">💻 Code</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=home">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=CBoUtY4DTrc">🎥 Video</a></li>
+          <li>SynMotor: A Benchmark Suite for Object Attribute Regression and Multi-task Learning</li>
+          <li><b>C. Wu</b>, L. Qiu, K. Zhou, J. Pfrommer, J. Beyerer</li>
+          <li>VISAPP 2023</li>
+          <li><a href="https://arxiv.org/abs/2301.05027">📄 Paper</a> | <a href="https://github.com/LinxiQIU/Motor_Datasets_Generation">💻 Code</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=datenset">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=Z5Ui6u5DJDs">🎥 Video</a></li>
         </ul>
       </div>
     </div>
