@@ -10,9 +10,9 @@ end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
 
-I supervised 10 Master’s theses in total during my doctoral study.
+I supervised 10 Master’s theses in total during my doctoral study:
 
-<ul style="list-style-type: disc; padding-left: 20px; font-size: 0.85em; margin: 0;">
+<ul style="list-style-type: disc; padding-left: 20px; font-size: 0.9em; margin: 0;">
   <li>Bin-Based Learnable Sampling Strategy for Point Cloud Edge Sampling, Hao fu, 2024</li>
   <li>A Study of Attention Module Variations in Point Cloud Feature Learning, Kaige Wang, 2023</li>
   <li>Exploring Contrastive Learning on 3D Point Clouds with Cross Attention, Qianlinag Huang, 2023</li>

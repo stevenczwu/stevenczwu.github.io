@@ -6,7 +6,7 @@ permalink: /teaching/Lecture-Optimization
 venue: "IES, KIT"
 date: 2020-10-01
 start_date: 2020-10-01
-end_date: 2021-04-01
+end_date: 2022-04-01
 location: "Karlsruhe, Germany"
 ---
 
