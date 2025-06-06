@@ -4,6 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/Lecture-Mustererkennung
 venue: "IES, KIT"
+date: 2019-04-01
 start_date: 2019-04-04
 end_date: 2023-04-01
 location: "Karlsruhe, Germany"
