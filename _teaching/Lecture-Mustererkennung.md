@@ -10,4 +10,6 @@ end_date: 2023-04-01
 location: "Karlsruhe, Germany"
 ---
 
-This [lecture](https://ies.iar.kit.edu/lehre_mustererkennung.php) provides a comprehensive overview of pattern recognition and classification. It begins with feature analysis, including types, transformations, selection, and dimensionality reduction techniques like PCA and ICA. It then covers classification theories, notably Bayesian decision theory and both parametric and non-parametric estimation methods. Various classifiers are introduced, such as SVMs, k-NN, decision trees, and perceptrons, along with special cases like sequence classification and rejection. Finally, it addresses practical issues like overfitting and introduces general learning principles and performance evaluation methods.
+<span style="font-size: 0.8em;">
+This [lecture](https://ies.iar.kit.edu/lehre_mustererkennung.php) covers key concepts in pattern recognition and classification, focusing on feature types, transformations, and dimensionality reduction methods such as PCA and ICA. It introduces Bayesian decision theory and methods for estimating class probabilities and parameters. Both parametric and non-parametric classification techniques are presented, including maximum likelihood, k-NN, and Parzen windows. A range of classifiers is discussed, such as SVMs, decision trees, perceptrons, and classifiers for sequences and nominal features. The lecture also addresses challenges like overfitting and explores learning principles, performance evaluation, and boosting.
+</span>
