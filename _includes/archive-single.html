@@ -42,10 +42,10 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.collection == 'teaching' or post.collection == 'projects'%}
+    {% if post.collection == 'teaching' or post.collection == 'projects' %}
       <p>
-        {% if post.type%}}{{ post.type }}, {% endif %}
-        {% if post.venue%}}<i>{{ post.venue }}</i>, {% endif %}
+        {% if post.type %}{{ post.type }}, {% endif %}
+        {% if post.venue %}<i>{{ post.venue }}</i>, {% endif %}
         {% if post.start_date and post.end_date %}
           {{ post.start_date | date: "%Y" }}–{{ post.end_date | date: "%Y" }}
         {% elsif post.start_date %}
