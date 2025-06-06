@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/Lecture-Optimization
 venue: "IES, KIT"
-date: 2019-04-01
+date: 2020-10-01
 start_date: 2020-10-01
 end_date: 2021-04-01
 location: "Karlsruhe, Germany"
