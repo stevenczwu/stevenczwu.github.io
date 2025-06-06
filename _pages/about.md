@@ -55,6 +55,8 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
         flex:45;
+        width: 250px; 
+        height: 160px; 
         background-color: white !important; 
         border: 2px solid black; 
         border-radius: 16px; 
