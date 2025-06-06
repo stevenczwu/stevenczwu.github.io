@@ -111,7 +111,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>Attention-based Point Cloud Edge Sampling</li>
           <li><b>C. Wu</b>, J. Zheng, J. Pfrommer, and J. Beyerer</li>
-          <li>CVPR 2023</li>
+          <li>CVPR 2023 (Highlight Paper)</li>
           <li><a href="https://arxiv.org/abs/2302.14673">📄 Paper</a> | <a href="https://github.com/JunweiZheng93/APES">💻 Code</a> | <a href="https://junweizheng93.github.io/publications/APES/APES.html">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=LI33vU72BZo">🎥 Video</a></li>
         </ul>
       </div>
@@ -153,7 +153,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>SynMotor: A Benchmark Suite for Object Attribute Regression and Multi-task Learning</li>
           <li><b>C. Wu</b>, L. Qiu, K. Zhou, J. Pfrommer, J. Beyerer</li>
-          <li>VISAPP 2023</li>
+          <li>VISAPP 2023 (Best Paper Finalist)</li>
           <li><a href="https://arxiv.org/abs/2301.05027">📄 Paper</a> | <a href="https://github.com/LinxiQIU/Motor_Datasets_Generation">💻 Code</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/?site=datenset">🏡 Homepage</a> | <a href="https://www.youtube.com/watch?v=Z5Ui6u5DJDs">🎥 Video</a></li>
         </ul>
       </div>
