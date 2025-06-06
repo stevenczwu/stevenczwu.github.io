@@ -18,8 +18,8 @@ location: "Karlsruhe, Germany"
 </div>
 
 <div style="display: flex; gap: 10px; margin-bottom: 15pt;">
-  <img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="flex: 1;">
-  <img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="flex: 1;">
+  <img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="flex: 1; display: block; height: auto;">
+  <img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="flex: 1; display: block; height: auto;">
 </div>
 
 
