@@ -54,7 +54,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </p>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
-        flex:45;
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important; 
@@ -77,6 +77,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important;
@@ -88,7 +89,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_OPS.png" alt="teaser_OPS" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>Open Panoramic Segmentation</li>
           <li>J. Zheng, R. Liu, Y. Chen, K. Peng, <b>C. Wu</b>, K. Yang, J. Zhang, R. Stiefelhagen</li>
@@ -99,6 +100,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important;
@@ -110,7 +112,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_APES.png" alt="teaser_APES" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>Attention-based Point Cloud Edge Sampling</li>
           <li><b>C. Wu</b>, J. Zheng, J. Pfrommer, and J. Beyerer</li>
@@ -121,6 +123,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important;
@@ -132,7 +135,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_AgiPointSeg.png" alt="teaser_AgiPointSeg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>Sim2real Transfer Learning for Point Cloud Segmentation: An Industrial Application Case on Autonomous Disassembly</li>
           <li><b>C. Wu</b>, X. Bi, J. Pfrommer, A. Cebulla, S. Mangold, J. Beyerer</li>
@@ -143,6 +146,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important;
@@ -154,7 +158,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_AgiBenchmark.png" alt="teaser_AgiBenchmark" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>SynMotor: A Benchmark Suite for Object Attribute Regression and Multi-task Learning</li>
           <li><b>C. Wu</b>, L. Qiu, K. Zhou, J. Pfrommer, J. Beyerer</li>
@@ -165,6 +169,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
+        flex: 45;
         width: 250px; 
         height: 160px; 
         background-color: white !important;
@@ -176,7 +181,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_SwitchVAE.png" alt="teaser_SwitchVAE" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>Self-Supervised Generative-Contrastive Learning of Multi-Modal Euclidean Input for 3D Shape Latent Representations: A Dynamic Switching Approach</li>
           <li><b>C. Wu</b>, J. Pfrommer, M. Zhou, J. Beyerer</li>
