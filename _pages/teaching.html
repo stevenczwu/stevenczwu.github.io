@@ -18,11 +18,11 @@ author_profile: true
       {% elsif post.start_date %}
         {{ post.start_date | date: "%Y" }}–present
       {% elsif post.date %}
-        {{ post.date | date: "%Y" }}
+        {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% endif %}
     </p>
-    {% if post.description %}
-      <p>{{ post.description }}</p>
-    {% endif %}
+    <div class="teaching-content">
+      {{ post.content }}
+    </div>
   </div>
 {% endfor %}
