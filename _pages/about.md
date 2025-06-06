@@ -54,8 +54,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
     </p>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
-        width: 250px; 
-        height: 160px; 
+        flex:45;
         background-color: white !important; 
         border: 2px solid black; 
         border-radius: 16px; 
@@ -65,7 +64,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         overflow: hidden;">
         <img src="../images/teasers/teaser_SAMBLE.png" alt="teaser_SAMBLE" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
-      <div style="flex: 1;">
+      <div style="flex: 55;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
           <li>SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity</li>
           <li><b>C. Wu</b>, Y. Wan, H. Fu, J. Pfrommer, Z. Zhong, J. Zheng, J. Zhang, and J. Beyerer</li>
