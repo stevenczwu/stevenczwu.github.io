@@ -10,11 +10,18 @@ end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
 
-<img src="../images/projects/AgiProbot_logo.png.png" alt="AgiProbot" style="display: block; margin: auto;">
-<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="display: block; margin: auto;">
-<img src="../images/projects/AgiProbot_1.png" alt="AgiProbot" style="display: block; margin: auto;">
-<img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="display: block; margin: auto;">
-<img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="display: block; margin: auto;">
+
+
+<div style="margin-bottom: 10px;">
+  <img src="../images/projects/AgiProbot_logo.png" alt="AgiProbot" style="width: 20%; max-width: 100%; display: block;">
+  <img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 100%; max-width: 100%; display: block;">
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="width: 50%;">
+  <img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="width: 50%;">
+</div>
+
 
 <b>Project Description:</b>
 Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications
