@@ -126,7 +126,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
         justify-content: center; 
         align-items: center;
         overflow: hidden;">
-        <img src="../images/teasers/teaser_AgiBenchmak.png" alt="teaser_AgiBenchmark" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="../images/teasers/teaser_AgiBenchmark.png" alt="teaser_AgiBenchmark" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
       <div style="flex: 1;">
         <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
