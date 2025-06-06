@@ -79,6 +79,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white !important;
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -100,6 +101,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white !important;
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -121,6 +123,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white !important;
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -142,6 +145,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white !important;
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -163,6 +167,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
       <div style="
         width: 250px; 
         height: 160px; 
+        background-color: white !important;
         border: 2px solid black; 
         border-radius: 16px; 
         display: flex; 
@@ -183,7 +188,7 @@ I am trying a new template, so this webpage is still under construction. Stay tu
 </section>
 
 
-<section id="selected_publications">
+<section id="professional_services">
     <p style="margin-bottom: 10px; margin-top: 50px;"> 
       <span style="font-size: 144%; ">🌻 <b>Professional Services</b></span> <br /> 
     </p>
