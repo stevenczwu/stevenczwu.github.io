@@ -2,6 +2,7 @@
 title: "Anthropomatik: Von der Theorie zur Anwendung"
 collection: teaching
 type: "Proseminar"
+permalink: /teaching/Proseminar-Anthropomatik
 venue: "IES, KIT"
 start_date: 2019-04-01
 end_date: 2023-04-01
