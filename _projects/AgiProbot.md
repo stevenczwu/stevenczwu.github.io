@@ -13,13 +13,13 @@ location: "Karlsruhe, Germany"
 
 
 <div style="margin-bottom: 10px;">
-  <img src="../images/projects/AgiProbot_logo.png" alt="AgiProbot" style="width: 20%; max-width: 100%; display: block;">
+  <img src="../images/projects/AgiProbot_logo.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin: 0 auto; margin-bottom: 15px;">
   <img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 100%; max-width: 100%; display: block;">
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="width: 50%;">
-  <img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="width: 50%;">
+  <img src="../images/projects/AgiProbot_2.png" alt="AgiProbot" style="flex: 1;">
+  <img src="../images/projects/AgiProbot_3.png" alt="AgiProbot" style="flex: 1;">
 </div>
 
 
