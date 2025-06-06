@@ -8,6 +8,6 @@ end_date: 2022-04-01
 location: "Karlsruhe, Germany"
 ---
 
-This is a Seminar offered for master's students. The Seminar is offered each year, with me supervising one topic in every session."
+This is a Seminar offered for master's students. The Seminar is offered each year, with me supervising one topic in every session.
 
 <a href="https://ies.iar.kit.edu/lehre_seminar_baf.php">📖 Details</a>
