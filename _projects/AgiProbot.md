@@ -5,7 +5,7 @@ type: "Funded by Carl Zeiss Foundation"
 permalink: /projects/AgiProbot
 excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin-left: 20pt; margin-bottom: 15pt;">
 <b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.<br>
-[🏡 Project Homepage](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/index.php) | [🎡 Virtual Online Tour](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm)
+<a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/index.php">🏡 Project Homepage</a> &#124; <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm">🎡 Virtual Online Tour</a>
 '
 date: 2019-04-01
 start_date: 2019-04-01
