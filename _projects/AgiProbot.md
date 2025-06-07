@@ -3,7 +3,7 @@ title: "AgiProbot"
 collection: projects
 type: "Funded by Carl Zeiss Foundation"
 permalink: /projects/AgiProbot
-excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10pt;">
+excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin: 0 auto; margin-bottom: 15pt;">
 <b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.'
 date: 2019-04-01
 start_date: 2019-04-01
