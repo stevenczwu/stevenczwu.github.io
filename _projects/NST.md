@@ -1,16 +1,13 @@
 ---
-title: "AgiProbot"
+title: "Neural Style Transfer "
 collection: projects
-type: "Funded by Carl Zeiss Foundation"
-permalink: /projects/AgiProbot
-excerpt: '
-<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin-left: 20pt; margin-bottom: 15pt;">
-<b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.
-<p><a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/index.php">🏡 Project Homepage</a> | <a href="https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm">🎡 Virtual Online Tour</a></p>
-'
-date: 2019-04-01
-start_date: 2019-04-01
-end_date: 2024-04-01
+type: "Sponsored by ZKM | Center for Art and Media"
+permalink: /projects/NST
+excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin-left: 20pt; margin-bottom: 15pt;">
+<b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.'
+date: 2018-07-01
+start_date: 2018-07-01
+end_date: 2018-09-30
 location: "Karlsruhe, Germany"
 ---
 

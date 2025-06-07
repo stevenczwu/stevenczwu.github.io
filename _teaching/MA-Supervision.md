@@ -10,7 +10,7 @@ end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
 
-I supervised 10 Master’s theses in total during my doctoral study:
+I supervised a total of 10 Master’s theses during my PhD: 
 
 <ul style="list-style-type: disc; padding-left: 20px; font-size: 0.9em; margin: 0;">
   <li>Bin-Based Learnable Sampling Strategy for Point Cloud Edge Sampling, Hao fu, 2024.</li>
