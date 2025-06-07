@@ -6,8 +6,6 @@ permalink: /projects/NST
 excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin-left: 20pt; margin-bottom: 15pt;">
 <b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.'
 date: 2018-07-01
-start_date: 2018-07-01
-end_date: 2018-09-30
 location: "Karlsruhe, Germany"
 ---
 
