@@ -3,7 +3,7 @@ title: "Neural Style Transfer "
 collection: projects
 type: "Sponsored by ZKM | Center for Art and Media Karlsruhe"
 permalink: /projects/NST
-excerpt: '<img src="../images/projects/NST_1.jpg" alt="NST" style="width: 50%; max-width: 100%; display: block; margin-left: 100pt; margin-bottom: 15pt;">
+excerpt: '<img src="../images/projects/NST_1.jpg" alt="NST" style="width: 40%; max-width: 100%; display: block; margin-left: 20pt; margin-bottom: 15pt;">
 <b>Project Description:</b> An interactive installation that uses neural networks for real-time AI-driven style transfer.<br>
 <a href="https://zkm.de/en/artwork/style-transfer">🏡 Project Homepage</a>'
 date: 2018-07-01
