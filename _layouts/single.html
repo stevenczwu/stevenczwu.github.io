@@ -57,6 +57,10 @@ layout: default
         </header>
       {% endunless %}
 
+      {% if page.collaborate %}
+        <p>In collaboration with: <i>{{ page.collaborate }}</i></p>
+      {% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
 
