@@ -3,13 +3,13 @@ title: "AgiProbot"
 collection: projects
 type: "Funded by Carl Zeiss Foundation"
 permalink: /projects/AgiProbot
-excerpt: '<b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications'
+excerpt: '<img src="../images/projects/AgiProbot_0.png" alt="AgiProbot" style="width: 100%; max-width: 100%; display: block;"></br>
+<b>Project Description:</b> Agile production system using mobile, learning robots with multisensor technology under uncertain product specifications.'
 date: 2019-04-01
 start_date: 2019-04-01
 end_date: 2024-04-01
 location: "Karlsruhe, Germany"
 ---
-
 
 <div style="margin-bottom: 10px;">
   <img src="../images/projects/Agi_institutes_logo.png" alt="AgiProbot" style="width: 80%; max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">
