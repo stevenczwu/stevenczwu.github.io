@@ -10,7 +10,7 @@ date: 2018-07-01
 location: "Karlsruhe, Germany"
 ---
 
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 15px;">
   <img src="../images/projects/ZKM_logo.svg" alt="NST" style="display: block; margin-left: auto; width: 120px;">
 </div>
 
