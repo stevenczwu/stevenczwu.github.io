@@ -22,7 +22,10 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
+  - title: "Crafts"
+    url: /crafts/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
     
