@@ -1,5 +1,5 @@
 ---
-title: "Crafts"
+title: "Origami"
 collection: moments
 type: "Origami"
 permalink: /moments/crafts
@@ -8,6 +8,7 @@ date: 2019-04-03
 start_date: 2019-04-03
 end_date: 2023-04-01
 location: "Karlsruhe, Germany"
+show_description: true
 ---
 
 <div style="display: flex; gap: 10px; margin-bottom: 15pt;">
