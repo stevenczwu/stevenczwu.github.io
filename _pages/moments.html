@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Crafts"
-permalink: /crafts/
+title: "Moments"
+permalink: /moments/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.crafts reversed %}
-  <div class="crafts-entry" style="margin-bottom: 3em;">
+{% for post in site.moments reversed %}
+  <div class="moments-entry" style="margin-bottom: 3em;">
     <h2>{{ post.title }}</h2>
     <p>
       {% if post.type %}{{ post.type }}, {% endif %}
@@ -21,7 +21,7 @@ author_profile: true
         {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% endif %}
     </p>
-    <div class="crafts-content">
+    <div class="moments-content">
       {{ post.content }}
     </div>
   </div>
