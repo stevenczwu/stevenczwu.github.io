@@ -1,7 +1,7 @@
 ---
 title: "Crafts"
 collection: crafts
-type: "Lecture"
+type: "Origami"
 permalink: /crafts
 venue: "IES, KIT"
 date: 2019-04-03
@@ -11,6 +11,6 @@ location: "Karlsruhe, Germany"
 ---
 
 <div style="display: flex; gap: 10px; margin-bottom: 15pt;">
-  <img src="../images/crafts/IMG_0745.jpg" alt="crafts" style="width: calc(50% - 5px);">
-  <img src="../images/crafts/IMG_0763.jpg" alt="crafts" style="width: calc(50% - 5px);">
+  <img src="../images/moments/IMG_0745.jpg" alt="crafts" style="width: calc(50% - 5px);">
+  <img src="../images/moments/IMG_0763.jpg" alt="crafts" style="width: calc(50% - 5px);">
 </div>

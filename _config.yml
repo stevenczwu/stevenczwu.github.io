@@ -278,10 +278,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _crafts
+  # _moments
   - scope:
       path: ""
-      type: crafts
+      type: moments
     values:
       layout: single
       author_profile: true
