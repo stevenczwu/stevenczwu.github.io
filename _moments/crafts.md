@@ -2,7 +2,7 @@
 title: "Crafts"
 collection: moments
 type: "Origami"
-permalink: /moments
+permalink: /moments/crafts
 venue: "IES, KIT"
 date: 2019-04-03
 start_date: 2019-04-03
