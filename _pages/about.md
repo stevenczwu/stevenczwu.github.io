@@ -11,7 +11,7 @@ Hi there! I am a Ph.D. at the [Vision and Fusion Laboratory (IES)](https://ies.i
 
 My primary research focus is 3D computer vision, spanning both applied and theoretical domains. On the applied side, I am actively involved in the [AgiProbot project](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/) (feel free to take the [virtual tour](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm) !), where I handle tasks like point cloud segmentation, synthetic data generation, and sim2real transfer learning. 
 On the theoretical side, my research centers on developing novel algorithms for self-supervised learning, 3D shape generation, and point cloud sampling (feel free to check my [CVPR 2023 highlight paper](../publication/2023-06-20-APES) and the recently accepted [CVPR 2025 paper](../publication/2025-06-11-SAMBLE) ). 
-Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2D image analysis (e.g. panoramic images), and vision-language models (e.g. open-vocabulary segmentation and video narration). Earlier in my research journey, I also worked on 3D volumetric data synthesis and 2D image style transfer. My master's thesis was about quantum control.
+Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2D image analysis (e.g. panoramic images), and vision-language models (e.g. open-vocabulary segmentation and video narration). Earlier in my research journey, I also worked on 3D volumetric data synthesis and image style transfer. My master's thesis was about quantum control.
 
 
 <section id="news">
