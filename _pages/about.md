@@ -198,5 +198,5 @@ Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2
       <span style="font-size: 144%; ">🌻 <b>Professional Services</b></span> <br /> 
     </p>
     <li><b>Conference Reviewer:</b> CVPR, ECCV, NeurIPS, ICML, AAAI, WACV, BMVC, IROS, ICRA, IVPR, ITSC</li>
-    <li><b>Journal Reviewer:</b> RA-L, TIP, TCSVT, ITSS, ESWA, INFFUS, at-Automatisierungstechnik</li>
+    <li><b>Journal Reviewer:</b> TPAMI, RA-L, TIP, TCSVT, ITSS, ESWA, INFFUS, at-Automatisierungstechnik</li>
 </section>
