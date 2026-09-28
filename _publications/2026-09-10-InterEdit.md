@@ -9,7 +9,7 @@ date: 2026-09-10
 venue: 'European Conference on Computer Vision (ECCV)'
 paperurl: 'https://arxiv.org/abs/2603.13082'
 githuburl: 'https://github.com/YNG916/InterEdit'
-videourl: 'https://eccv.ecva.net/virtual/2026/poster/3603'
+videourl: 'https://www.youtube.com/watch?v=i52ZLOs1VxE'
 ---
 
 <img src="../images/teasers/teaser_InterEdit.png" alt="teaser_InterEdit" style="display: block; margin: auto;">
@@ -22,7 +22,7 @@ If you are interested in this work, please cite as below:
 
 ```text
 @inproceedings{yang2026interedit,
-  author={Yebin Yang, Di Wen, Lei Qi, Weitong Kong, Junwei Zheng, Ruiping Liu, Yufan Chen, Chengzhi Wu, Kailun Yang, Yuqian Fu, Danda Pani Paudel, Luc Van Gool, Kunyu Peng},
+  author = {Yang, Yebin and Wen, Di and Qi, Lei and Kong, Weitong and Zheng, Junwei and Liu, Ruiping and Chen, Yufan and Wu, Chengzhi and Yang, Kailun and Fu, Yuqian and Paudel, Danda Pani and Van Gool, Luc and Peng, Kunyu},
   title={InterEdit: Navigating Text-Guided 3D Dyadic Human Motion Editing},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   year={2026}
