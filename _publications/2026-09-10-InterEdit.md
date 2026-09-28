@@ -1,6 +1,6 @@
 ---
 title: "InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing"
-author: "Y. Yang, D. Wen, L. Qi,, W. Kong, J. Zheng, R. Liu, Y. Chen, <strong>C. Wu</strong>, K. Yang, Y. Fu, D. P. Paudel, L. Van Gool, and K. Peng
+author: "Y. Yang, D. Wen, L. Qi,, W. Kong, J. Zheng, R. Liu, Y. Chen, <strong>C. Wu</strong>, K. Yang, Y. Fu, D. P. Paudel, L. Van Gool, and K. Peng"
 collection: publications
 category: conferences
 permalink: /publication/2026-09-10-InterEdit
