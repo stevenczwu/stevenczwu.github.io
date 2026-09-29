@@ -27,6 +27,10 @@ Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   ">
     <ul style="list-style: none; padding-left: 0; font-size: 0.85em; line-height: 1.6;">
+      <li><b>[Jun 2026]</b>: A paper <a href="https://stevenczwu.github.io/publication/2026-09-12-WanderDream">WanderDream</a> has been accepted at ECCV 2026.</li>
+      <li><b>[Jun 2026]</b>: A paper <a href="https://stevenczwu.github.io/publication/2026-09-10-InterEdit">InterEdit</a> has been accepted at ECCV 2026.</li>
+      <li><b>[Apr 2026]</b>: A paper <a href="https://stevenczwu.github.io/publication/2026-07-06-FlowNar">FlowNar</a> has been accepted at ICML 2026.</li>
+      <li><b>[Nov 2025]</b>: A paper <a href="https://stevenczwu.github.io/publication/2026-03-06-CLAM">CLAM</a> has been accepted at WACV 2026.</li>
       <li><b>[Feb 2025]</b>: A paper <a href="https://stevenczwu.github.io/publication/2025-06-11-SAMBLE">SAMBLE</a> has been accepted at CVPR 2025.</li>
       <li><b>[Dec 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-12-01-RethinkPoAtt">Rethinking Attention Module Design for Point Cloud Analysis</a> has been accepted at ICPR 2024.</li>
       <li><b>[Jul 2024]</b>: A paper <a href="https://stevenczwu.github.io/publication/2024-10-04-OPS">OPS</a> has been accepted at ECCV 2024.</li>
@@ -52,6 +56,75 @@ Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2
     <p style="margin-bottom: 10px; margin-top: 50px;"> 
       <span style="font-size: 144%; ">📖 <b>Selected Publications</b></span> <br /> 
     </p>
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
+      <div style="
+        flex: 45;
+        width: 250px; 
+        height: 160px; 
+        background-color: white !important; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_WanderDream.png" alt="teaser_WanderDream" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 55;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>What if? Emulative simulation with world models for situated reasoning</li>
+          <li>R. Liu, Y. Chen, Y. Zhang, J. Zheng, K. Peng, <b>C. Wu</b>, C. Huang, D. Wen, J. Zhang, K. Yang, R. Stiefelhagen</li>
+          <li>ECCV 2026</li>
+          <li><a href="https://arxiv.org/abs/2603.06445">📄 Paper</a> | <a href="https://github.com/RuipingL/WanderDream">💻 Code</a> | <a href="https://www.youtube.com/watch?v=O-DfipEBxqg">🎥 Video</a></li>
+        </ul>
+      </div>
+    </div>
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
+      <div style="
+        flex: 45;
+        width: 250px; 
+        height: 160px; 
+        background-color: white !important; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_InterEdit.png" alt="teaser_InterEdit" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 55;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing</li>
+          <li>Y. Yang, D. Wen, L. Qi,, W. Kong, J. Zheng, R. Liu, Y. Chen, <b>C. Wu</b>, K. Yang, Y. Fu, D. P. Paudel, L. Van Gool, and K. Peng</li>
+          <li>ECCV 2026</li>
+          <li><a href="https://arxiv.org/abs/2603.13082">📄 Paper</a> | <a href="https://github.com/YNG916/InterEdit">💻 Code</a> | <a href="https://www.youtube.com/watch?v=i52ZLOs1VxE">🎥 Video</a></li>
+        </ul>
+      </div>
+    </div>
+    <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
+      <div style="
+        flex: 45;
+        width: 250px; 
+        height: 160px; 
+        background-color: white !important; 
+        border: 2px solid black; 
+        border-radius: 16px; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        overflow: hidden;">
+        <img src="../images/teasers/teaser_FlowNar.png" alt="teaser_FlowNar" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 55;">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: disc; font-size: 14px;">
+          <li>FlowNar: Scalable Streaming Narration for Long-Form Videos</li>
+          <li>Z. Zhong, M. Martin, <b>C. Wu</b>, D. Schneider, F. Diederichs, J. Gall, J. Beyerer</li>
+          <li>ICML 2026</li>
+          <li><a href="https://arxiv.org/abs/2606.00620">📄 Paper</a> | <a href="https://github.com/zeyun-zhong/flownar">💻 Code</a> | <a href="https://zeyun-zhong.github.io/FlowNar/">🏡 Homepage</a></li>
+        </ul>
+      </div>
+    </div>
     <div style="display: flex; align-items: flex-start; width: 100%; margin-bottom: 30px;">
       <div style="
         flex: 45;
