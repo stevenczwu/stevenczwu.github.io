@@ -9,10 +9,16 @@ redirect_from:
 
 Hi there! I am a Ph.D. at the [Vision and Fusion Laboratory (IES)](https://ies.iar.kit.edu/1473_1524.php) at Karlsruher Institut of Technologie (KIT), under the supervision of [Prof. Jürgen Beyerer](https://ies.iar.kit.edu/1473_1497.php). Before that, I was a research scientist at the Institute for Visualization and Data Analysis (IVD) at KIT. I received my master’s degree in Control Science and Engineering and my bachelor’s degree in Automation from Nanjing University (NJU). 
 
+<!--
 My primary research focus is 3D computer vision, spanning both applied and theoretical domains. On the applied side, I am actively involved in the [AgiProbot project](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/) (feel free to take the [virtual tour](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm) !), where I handle tasks like point cloud segmentation, synthetic data generation, and sim2real transfer learning. 
 On the theoretical side, my research centers on developing novel algorithms for self-supervised learning, 3D shape generation, and point cloud sampling (feel free to check my [CVPR 2023 highlight paper](../publication/2023-06-20-APES) and the recently accepted [CVPR 2025 paper](../publication/2025-06-11-SAMBLE) ). 
 Beyond 3D vision, I have strong interests in multi-modal learning, scene-level 2D image analysis (e.g. panoramic images), and vision-language models (e.g. open-vocabulary segmentation and video narration). Earlier in my research journey, I also worked on 3D volumetric data synthesis and image style transfer. My master's thesis was about quantum control.
+-->
 
+My research focuses on 3D computer vision and multimodal AI, spanning both applied and theoretical domains. On the 3D side, my work includes point cloud understanding, self-supervised learning, 3D shape generation, and language-guided 3D motion editing. 
+I am also actively involved in the [AgiProbot project](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/) (feel free to take the [virtual tour](https://www.wbk.kit.edu/wbkintern/Forschung/Projekte/AgiProbot/Tour/index.htm) !), where I work on point cloud segmentation, synthetic data generation, and sim2real transfer learning. 
+On the multimodal side, I am interested in vision-language models, video-language understanding, and multimodal reasoning, with recent work on scalable long-form video narration and world models for situated reasoning. I have also worked on panoramic image understanding, open-vocabulary segmentation, and other vision-language tasks. 
+Earlier in my research journey, I worked on 3D volumetric data synthesis and image style transfer. My master's thesis was about quantum control.
 
 <section id="news">
   <p style="margin-bottom: 10px; margin-top: 50px"> 
